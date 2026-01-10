@@ -1,0 +1,20 @@
+{
+  "providerName": "Yoan TV",
+  "language": "en",
+  "lastUpdated": "2026-01-10T00:00:00Z",
+  "channels": [
+    {
+      "id": "news1",
+      "title": "News Live",
+      "shortDescription": "Live news channel",
+      "content": {
+        "streams": [
+          {
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ]
+}
